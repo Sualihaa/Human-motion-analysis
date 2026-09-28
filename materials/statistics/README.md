@@ -1,4 +1,4 @@
-# Week 3: Basic Statistics for Biomechanical Data
+# Basic Statistics for Biomechanical Data
 
 ## Overview
 
